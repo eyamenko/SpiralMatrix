@@ -1,1 +1,1 @@
-# Spiral matrix
+Spiral matrix
